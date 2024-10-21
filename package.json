@@ -15,9 +15,12 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@aws-sdk/client-quicksight": "^3.674.0",
+    "@aws-sdk/credential-providers": "^3.670.0",
     "@remix-run/cloudflare": "^2.13.1",
     "@remix-run/cloudflare-pages": "^2.13.1",
     "@remix-run/react": "^2.13.1",
+    "amazon-quicksight-embedding-sdk": "^2.8.0",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
